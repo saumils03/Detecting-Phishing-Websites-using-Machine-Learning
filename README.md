@@ -17,7 +17,7 @@ The below mentioned category of features are extracted from the URL data :
 
  All together 18 features are extracted from each url of the dataset.
  
-## Model Training:
+# Model Training:
 This is a binary classiication problem that is being solved i.e. a URL has to be classifed as either benign or malicious.
 The ML models used in the project are:
 - Decision Tree
